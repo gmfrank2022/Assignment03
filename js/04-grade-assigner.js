@@ -11,7 +11,7 @@ else{
         console.log("You received a C");
     }
     else if(num>=80 && num<=89){
-        console.log("You received a B");
+        console.log("You received a B");;
     }
     else if(num>=90 && num<=100){
         console.log("You received an A");
