@@ -27,3 +27,4 @@ else{
         alert("The flip was tails and you chose tails...you win!")
     }
 }
+ 

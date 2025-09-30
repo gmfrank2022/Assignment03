@@ -2,7 +2,7 @@ let num = parseInt(prompt("Please input an Integer Between 1 and 100: "));
 
 if(num<1 || num >100){
     alert("Only numbers between 1 and 100 are accepted!")
-}
+} 
 else{
     if(num>=60 && num<=69){
         console.log("You received a D");
